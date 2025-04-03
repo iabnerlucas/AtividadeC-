@@ -1,0 +1,14 @@
+C:\Users\Abner55003396\source\repos\Atividade\Atividade7\bin\Debug\net6.0\Atividade7.exe
+C:\Users\Abner55003396\source\repos\Atividade\Atividade7\bin\Debug\net6.0\Atividade7.deps.json
+C:\Users\Abner55003396\source\repos\Atividade\Atividade7\bin\Debug\net6.0\Atividade7.runtimeconfig.json
+C:\Users\Abner55003396\source\repos\Atividade\Atividade7\bin\Debug\net6.0\Atividade7.dll
+C:\Users\Abner55003396\source\repos\Atividade\Atividade7\bin\Debug\net6.0\Atividade7.pdb
+C:\Users\Abner55003396\source\repos\Atividade\Atividade7\obj\Debug\net6.0\Atividade7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Abner55003396\source\repos\Atividade\Atividade7\obj\Debug\net6.0\Atividade7.AssemblyInfoInputs.cache
+C:\Users\Abner55003396\source\repos\Atividade\Atividade7\obj\Debug\net6.0\Atividade7.AssemblyInfo.cs
+C:\Users\Abner55003396\source\repos\Atividade\Atividade7\obj\Debug\net6.0\Atividade7.csproj.CoreCompileInputs.cache
+C:\Users\Abner55003396\source\repos\Atividade\Atividade7\obj\Debug\net6.0\Atividade7.dll
+C:\Users\Abner55003396\source\repos\Atividade\Atividade7\obj\Debug\net6.0\refint\Atividade7.dll
+C:\Users\Abner55003396\source\repos\Atividade\Atividade7\obj\Debug\net6.0\Atividade7.pdb
+C:\Users\Abner55003396\source\repos\Atividade\Atividade7\obj\Debug\net6.0\Atividade7.genruntimeconfig.cache
+C:\Users\Abner55003396\source\repos\Atividade\Atividade7\obj\Debug\net6.0\ref\Atividade7.dll
